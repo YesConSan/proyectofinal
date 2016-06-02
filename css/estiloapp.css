@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+header {
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.8)), url(../imagenes/cb02.png);
+	background-position: center; /*la imagen estara centrada */
+	background-size: cover;
+	height: 30vh; /*una unidad raltiva, la altura del header, es la abrviatura de 
+	viewpoint(punto de vista)= 1% de la pantalla*/
+	color:#FFEBCD;
+	}
+	
+.header-text-box {
+	font-family:"Comic Sans MS", cursive;
+    transform: translate(0%, 60%);
+	
+	
+}
+
+
+.header-text-box p {
+	color: #F90;
+	
+	
+	
+}
+
+.box img {
+	width: 80%;
+	height: 100%;
+	text-align:center;
+	margin-bottom: 30px;
+	border-radius: 50%;
+	
+}
+
+.mision img{
+	width: 80%;
+	height: 100%;
+	text-align:center;
+	margin-bottom: 30px;
+	border-radius: 30%;
+	
+}
+	
+	
+	}
